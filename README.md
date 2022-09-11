@@ -1,7 +1,7 @@
 # Pharmacy_sales_Power_BI_tutorial
 
 Basic practice in Power BI reporting using standard vizualizations, bookmarks, slicers and drilling.
-
+![image](https://user-images.githubusercontent.com/112822472/189521661-a5ef8494-cb99-4691-8ce6-68055b55df67.png)
 
 About Dataset
 The dataset is built from the initial dataset consisted of 600000 transactional data collected in 6 years (period 2014-2019), indicating date and time of sale, pharmaceutical drug brand name and sold quantity, exported from Point-of-Sale system in the individual pharmacy. Selected group of drugs from the dataset (57 drugs) is classified to the following Anatomical Therapeutic Chemical (ATC) Classification System categories:
