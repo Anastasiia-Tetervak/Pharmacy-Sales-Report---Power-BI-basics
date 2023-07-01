@@ -2,7 +2,7 @@
 
 ## About
 This repository contains a Power BI tutorial that demonstrates basic practices in Power BI reporting using standard visualizations, bookmarks, slicers, and drilling.
-![image](![image](https://github.com/Anastasiia-Tetervak/Pharmacy_sales_Power_BI_tutorial/assets/112822472/1cd56700-2b75-480f-a241-477b7b0dd545))
+![image](![image](https://github.com/Anastasiia-Tetervak/Pharmacy_sales_Power_BI_tutorial/assets/112822472/1cd56700-2b75-480f-a241-477b7b0dd545)
 ![image](https://github.com/Anastasiia-Tetervak/Pharmacy_sales_Power_BI_tutorial/assets/112822472/5e1d08b2-2db2-41a6-bbb7-66b3b2ebc0c9)
 
 ## Dataset
@@ -11,14 +11,14 @@ The dataset used in this tutorial is derived from an initial dataset consisting 
 ### Drug Categories
 The selected group of drugs from the dataset consists of 57 drugs classified into the following Anatomical Therapeutic Chemical (ATC) Classification System categories:
 
-- # M01AB: Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives, and related substances
-- # M01AE: Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives
-- # N02BA: Other analgesics and antipyretics, Salicylic acid and derivatives
-- # N02BE/B: Other analgesics and antipyretics, Pyrazolones and Anilides
-- # N05B: Psycholeptics drugs, Anxiolytic drugs
-- # N05C: Psycholeptics drugs, Hypnotics, and sedatives drugs
-- # R03: Drugs for obstructive airway diseases
-- # R06: Antihistamines for systemic use
+-  M01AB: Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives, and related substances
+-  M01AE: Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives
+-  N02BA: Other analgesics and antipyretics, Salicylic acid and derivatives
+-  N02BE/B: Other analgesics and antipyretics, Pyrazolones and Anilides
+-  N05B: Psycholeptics drugs, Anxiolytic drugs
+-  N05C: Psycholeptics drugs, Hypnotics, and sedatives drugs
+-  R03: Drugs for obstructive airway diseases
+-  R06: Antihistamines for systemic use
 
 ### Resampling
 The sales data has been resampled to daily, monthly, quarterly, and yearly periods for analysis. The data has already been pre-processed, which involved outlier detection and treatment, as well as missing data imputation.
