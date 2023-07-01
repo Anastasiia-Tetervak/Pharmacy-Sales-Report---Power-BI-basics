@@ -34,5 +34,6 @@ The repository includes the following files:
 
 1. `Pharmacy_Sales_Report.pbix`: The Power BI file containing the tutorial report.
 2. `README.md` (this file): Provides an overview of the tutorial and dataset.
+3. `salesmonthly.csv`: data used in the report.
 
 Note: The dataset used in this tutorial is for demonstration purposes only and does not represent actual pharmacy sales data.
