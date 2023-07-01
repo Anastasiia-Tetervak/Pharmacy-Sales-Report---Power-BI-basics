@@ -2,7 +2,8 @@
 
 ## About
 This repository contains a Power BI tutorial that demonstrates basic practices in Power BI reporting using standard visualizations, bookmarks, slicers, and drilling.
-![image](![image](https://github.com/Anastasiia-Tetervak/Pharmacy_sales_Power_BI_tutorial/assets/112822472/1cd56700-2b75-480f-a241-477b7b0dd545)
+
+![image](https://github.com/Anastasiia-Tetervak/Pharmacy_sales_Power_BI_tutorial/assets/112822472/1cd56700-2b75-480f-a241-477b7b0dd545)
 ![image](https://github.com/Anastasiia-Tetervak/Pharmacy_sales_Power_BI_tutorial/assets/112822472/5e1d08b2-2db2-41a6-bbb7-66b3b2ebc0c9)
 
 ## Dataset
