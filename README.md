@@ -1,4 +1,4 @@
-# Pharmacy Sales Power BI Tutorial
+# Pharmacy Sales Report - Power BI Basics
 
 ## About
 This repository contains a Power BI tutorial that demonstrates basic practices in Power BI reporting using standard visualizations, bookmarks, slicers, and drilling.
